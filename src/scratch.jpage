@@ -1,0 +1,15 @@
+//edu.cnm.deepdive.temperature.Converter.celciusToFahrenheit(0)
+//------fully qualified name------------. method   (test input)
+//this invoking a method.
+
+System.out.println(edu.cnm.deepdive.temperature.Converter.celciusToFahrenheit(0));
+System.out.println(edu.cnm.deepdive.temperature.Converter.celciusToFahrenheit(100));
+System.out.println(edu.cnm.deepdive.temperature.Converter.celciusToFahrenheit(-40));
+//inspect will print result but is void, so use ctrl U
+
+/*ctrl shift i is inspect
+ctrl U for multiple line includes void methods
+*/
+edu.cnm.deepdive.temperature.Converter.fahrenheitToCelsius(212);
+edu.cnm.deepdive.temperature.Converter.fahrenheitToCelsius(100);
+edu.cnm.deepdive.temperature.Converter.fahrenheitToCelsius(-40);
